@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Paytone+One');
+html{
+    background-image: url(assets/ws_Night_Moon_Mountains_&_Sea_1920x1200.jpg);
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Efecto{
+    position: absolute;
+    font-family: 'Paytone One', sans-serif;
+    font-size: 90px;
+    color: whitesmoke;
+    margin: auto;
+    width: 910px;
+    top: 40%;
+}
+.Efecto span{
+    position: relative;
+    display: inline-block;
+    width: auto;
+}
